@@ -1,5 +1,5 @@
 # windy.app
-**EN**
+**EN**<br/>
 Just a well done test task.
 
 [windy.app](https://windy.app/) is a professional weather app, created for water and wind sports.
@@ -9,7 +9,7 @@ In this work, I made an interesting analysis of the anomalous activity of advert
 
 
 
-**RU**
+**RU**<br/>
 Просто хорошо сделанное тестовое задание.
 
 [windy.app](https://windy.app/) это профессионального погодное приложение, созданное для водных и ветровых видов спорта.
