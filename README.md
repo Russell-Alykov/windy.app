@@ -9,6 +9,7 @@ In this work, I made an interesting analysis of the anomalous activity of advert
 <br/>
 <br/>
 <br/>
+
 **RU**<br/>
 Просто хорошо сделанное тестовое задание.
 
