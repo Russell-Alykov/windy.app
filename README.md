@@ -6,9 +6,9 @@ Just a well done test task.
 
 In this work, I made an interesting analysis of the anomalous activity of advertising campaigns associated with storms and hurricanes that occurred in some parts of the world in February 2023.
 
-
-
-
+<br/>
+<br/>
+<br/>
 **RU**<br/>
 Просто хорошо сделанное тестовое задание.
 
